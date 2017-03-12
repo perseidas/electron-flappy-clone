@@ -7,7 +7,7 @@ Made just for fun. [Download it here!](http://)
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/perseidas/electron-flappy-clone/blob/master/res/electron-flappy-clone-screenshot.png" alt="Screenshot"       width=400/>
+  <img src="https://github.com/perseidas/electron-flappy-clone/blob/master/res/electron-flappy-clone-screenshot.png" alt="Screenshot"       width=600/>
 </p>
 
 ### How-to
