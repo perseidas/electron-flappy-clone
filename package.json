@@ -1,0 +1,14 @@
+{
+  "name": "electron-flappy-clone",
+  "version": "1.0.0",
+  "description": "a flappy clone for electron made at nodeschool munich",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "perseidas",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
