@@ -3,7 +3,7 @@
 An [Electron](https://electron.atom.io/) Flappy Bird clone made at [NodeSchool Munich](https://nodeschool.io/munich/).
 
 Made as an excercise to learn Electron and, of course, for fun too. 
-[Download it here!](https://www.dropbox.com/s/h6fbe1oagt6hjna/electron-flappy-clone.app.zip?dl=0) (only for OS X (darwin-x64) at the moment). <i>You will be prompted with a warning since it's not an official app, so you can `open it anyway` via the systems preferences as usual.</i>
+[Download it here!](http://bit.ly/ElectronFlappyClone) (only for OS X (darwin-x64) at the moment). <i>You will be prompted with a warning since it's not an official app, so you can `open it anyway` via the systems preferences as usual.</i>
 
 ### Screenshot
 
