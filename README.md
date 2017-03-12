@@ -7,7 +7,7 @@ Made just for fun. [Download it here!](http://)
 ### Screenshot
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/....png" alt="Screenshot"/>
+  <img src="https://github.com/perseidas/electron-flappy-clone/blob/master/res/electron-flappy-clone-screenshot.png" alt="Screenshot"       width=400/>
 </p>
 
 ### How-to
