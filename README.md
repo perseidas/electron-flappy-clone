@@ -3,7 +3,7 @@
 An [Electron](https://electron.atom.io/) Flappy Bird clone made at [NodeSchool Munich](https://nodeschool.io/munich/).
 
 Made as an excercise to learn Electron and, of course, for fun too. 
-[Download it here!](https://www.dropbox.com/s/h6fbe1oagt6hjna/electron-flappy-clone.app.zip?dl=0) (only for OS X (darwin-x64) at the moment).
+[Download it here!](https://www.dropbox.com/s/h6fbe1oagt6hjna/electron-flappy-clone.app.zip?dl=0) (only for OS X (darwin-x64) at the moment). <i>You will be prompted with a warning since it's not an official app, so you can `open it anyway` via the systems preferences as usual.</i>
 
 ### Screenshot
 
@@ -69,7 +69,7 @@ Thanks to Max Wihlborg for his [tutorial of the game in HTML5](https://github.co
 
 Game icon credits to author [draseart](http://www.easyicon.net/language.en/1145245-flappy_bird_icon.html)
 
-Special thanks to the mentors, organizers, and sponsors of the event!
+<b>Special thanks</b> to the mentors, organizers, and sponsors of the event!
 
 ## Feedback and contribution
 
@@ -77,4 +77,4 @@ Since this is my first electron app, please let me know if it works (or not)! Ch
 
 ## License
 
-electron-flappy-clone is licensed under the [MIT license.](https://github.com/perseidas/electron-flappy-clone/master/LICENSE.txt) and this game app should be used only for educational (non-commercial) purposes only.
+electron-flappy-clone is licensed under the [MIT license.](https://github.com/perseidas/electron-flappy-clone/master/LICENSE.txt);  this game app was developed only for educational and entertaining (non-commercial) purposes only.
