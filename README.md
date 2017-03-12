@@ -40,6 +40,12 @@ electron.app.on('ready', function () {
 })
 ```
 
+and then you can test and iterate your game app running it locally:
+
+```bash
+electron app.js
+```
+
 #### 2. Add the dependencies (packages via NPM) which are listed in the .JSON
 
 Assuming that you already have [``Node.js``](https://nodejs.org/en/) and the node package manager [``npm``](https://www.npmjs.com/) installed 
